@@ -1,0 +1,16 @@
+<resources>
+    
+    <string name="app_name">Quizz App</string>
+    <string name="quiz_one">What\'s your name?</string>
+    <string name="quiz_two">What\'s your developer level?</string>
+    <string name="radio_one">Basic</string>
+    <string name="radio_two">Intermediate</string>
+    <string name="radio_three">No Experience</string>
+    <string name="quiz_three">Where did you here us from?</string>
+    <string name="check_one">GOOGLE +</string>
+    <string name="check_two">FACEBOOK</string>
+    <string name="check_three">TWITTER</string>
+    <string name="check_four">E-MAIL</string>
+    <string name="check_five">OTHER</string>
+
+</resources>
